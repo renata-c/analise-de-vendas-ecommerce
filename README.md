@@ -2,7 +2,7 @@
 
 ## 📋 Descrição do Projeto
 
-Projeto de análise exploratória de dados (EDA) focado em vendas de e-commerce. Este projeto foi desenvolvido como parte do curso [**Fundamentos de Linguagem Python: Do Básico a Aplicações de IA**](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-do-basico-a-aplicacoes-de-ia) da **Data Science Academy (DSA)**.
+Projeto de análise exploratória de dados (EDA) focado em vendas de e-commerce. Este projeto foi desenvolvido durante o curso [**Fundamentos de Linguagem Python: Do Básico a Aplicações de IA**](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-do-basico-a-aplicacoes-de-ia) da **Data Science Academy (DSA)** a fim de consolidar o aprendizado.
 
 O objetivo principal é aplicar técnicas de limpeza, processamento e análise de dados usando Python para extrair insights significativos sobre o comportamento de vendas, produtos mais populares e faturamento mensal.
 
