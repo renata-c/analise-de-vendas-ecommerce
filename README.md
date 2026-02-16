@@ -1,12 +1,12 @@
 # Análise de Vendas E-commerce
 
-## 📋 Descrição do Projeto
+## Descrição
 
 Projeto de análise exploratória de dados (EDA) focado em vendas de e-commerce. Este projeto foi desenvolvido durante o curso [**Fundamentos de Linguagem Python: Do Básico a Aplicações de IA**](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-do-basico-a-aplicacoes-de-ia) da **Data Science Academy (DSA)** a fim de consolidar o aprendizado.
 
 O objetivo principal é aplicar técnicas de limpeza, processamento e análise de dados usando Python para extrair insights significativos sobre o comportamento de vendas, produtos mais populares e faturamento mensal.
 
-## 🎯 Objetivos
+## Objetivos
 
 - Explorar e compreender a estrutura dos dados de vendas
 - Limpar e pré-processar dados brutos
@@ -15,7 +15,7 @@ O objetivo principal é aplicar técnicas de limpeza, processamento e análise d
 - Analisar o faturamento mensal
 - Visualizar tendências e padrões nos dados
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 analise-de-vendas-ecommerce/
@@ -25,7 +25,7 @@ analise-de-vendas-ecommerce/
 └── dados_vendas.csv                    # Dataset com os dados de vendas
 ```
 
-## 🔧 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Pandas** - Manipulação e análise de dados
 - **NumPy** - Operações matemáticas e arrays
@@ -33,7 +33,7 @@ analise-de-vendas-ecommerce/
 - **Seaborn** - Visualizações estatísticas avançadas
 - **Jupyter Notebook** - Ambiente interativo
 
-## 📊 Análises e Visualizações
+## Análises e Visualizações
 
 - **Top 10 produtos mais vendidos** - Identificação dos bestsellers com visualização em gráfico de barras
 - **Faturamento mensal** - Análise de tendências de receita ao longo do tempo
@@ -41,7 +41,7 @@ analise-de-vendas-ecommerce/
 - **Faturamento por categoria** - Análise de receita por segmento de produtos
 
 
-## 📝 Estrutura do Notebook
+## Estrutura do Notebook
 
 O notebook está organizado em seções:
 
@@ -54,19 +54,15 @@ O notebook está organizado em seções:
 7. **Análise 4: Faturamento por categoria**
 
 
-## 💡 Insights Esperados
+## Insights Esperados
 
 - Produtos mais populares entre os clientes
 - Períodos de maior faturamento (sazonalidade)
 - Estados com melhor desempenho em vendas
 - Categorias de produtos mais lucrativas
 
-## 🔄 Próximas Etapas
+## Próximas Etapas
 
 - Análise de correlação entre variáveis
 - Segmentação de clientes
 - Modelos de previsão de vendas
-
----
-
-**Última atualização:** janeiro, 2026
